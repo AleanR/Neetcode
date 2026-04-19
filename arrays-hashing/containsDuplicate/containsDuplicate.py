@@ -1,4 +1,5 @@
 
+from typing import List
 
 #Brute Force Method -> Time: O(n^2) Space: O(1)
 class Solution:
